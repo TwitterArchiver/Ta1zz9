@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2047344339899322529",
+    "created_at": "2026-04-24T04:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047526953021005950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891311621991219200",
+          "start": 0,
+          "username": "Numiouo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047526953021005950",
+    "in_reply_to_user_id": "1891311621991219200",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047344339899322529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo1 weed"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2047344339899322529",
+        "created_at": "2026-04-24T04:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047526953021005950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891311621991219200",
+              "start": 0,
+              "username": "Numiouo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047526953021005950",
+        "in_reply_to_user_id": "1891311621991219200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047344339899322529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo1 weed"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891311621991219200",
+        "conversation_id": "2047344339899322529",
+        "created_at": "2026-04-23T15:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047344339899322529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047344339899322529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1017,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草美金刚是要崛起了吗，热度好高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "",
+        "id": "2041738773114044416",
+        "name": "TaIzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "@Numiouo大号\n大号的互关都会回 \n纯黄/红推会双取勿fo\n举报我不得好死不得好活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Numiouo"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米（备用号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 229,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 77
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

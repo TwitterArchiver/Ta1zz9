@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055328039802990592",
+        "3_2055328042311114752",
+        "3_2055328039505137665"
+      ]
+    },
+    "author_id": "2041738773114044416",
+    "conversation_id": "2055328084048674843",
+    "created_at": "2026-05-15T16:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055328084048674843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LF5UkB8UgA",
+          "end": 40,
+          "expanded_url": "https://x.com/Ta1zz9/status/2055328084048674843/photo/1",
+          "media_key": "3_2055328039802990592",
+          "start": 17,
+          "url": "https://t.co/LF5UkB8UgA"
+        },
+        {
+          "display_url": "pic.x.com/LF5UkB8UgA",
+          "end": 40,
+          "expanded_url": "https://x.com/Ta1zz9/status/2055328084048674843/photo/1",
+          "media_key": "3_2055328042311114752",
+          "start": 17,
+          "url": "https://t.co/LF5UkB8UgA"
+        },
+        {
+          "display_url": "pic.x.com/LF5UkB8UgA",
+          "end": 40,
+          "expanded_url": "https://x.com/Ta1zz9/status/2055328084048674843/photo/1",
+          "media_key": "3_2055328039505137665",
+          "start": 17,
+          "url": "https://t.co/LF5UkB8UgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055328084048674843",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "everyday#drugwet https://t.co/LF5UkB8UgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055328039802990592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX99m1bcAAvD6C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055328042311114752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX99wLaYAAojjZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055328039505137665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX99luakAESR_r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055328039802990592",
+            "3_2055328042311114752",
+            "3_2055328039505137665"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "conversation_id": "2055328084048674843",
+        "created_at": "2026-05-15T16:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055328084048674843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LF5UkB8UgA",
+              "end": 40,
+              "expanded_url": "https://x.com/Ta1zz9/status/2055328084048674843/photo/1",
+              "media_key": "3_2055328039802990592",
+              "start": 17,
+              "url": "https://t.co/LF5UkB8UgA"
+            },
+            {
+              "display_url": "pic.x.com/LF5UkB8UgA",
+              "end": 40,
+              "expanded_url": "https://x.com/Ta1zz9/status/2055328084048674843/photo/1",
+              "media_key": "3_2055328042311114752",
+              "start": 17,
+              "url": "https://t.co/LF5UkB8UgA"
+            },
+            {
+              "display_url": "pic.x.com/LF5UkB8UgA",
+              "end": 40,
+              "expanded_url": "https://x.com/Ta1zz9/status/2055328084048674843/photo/1",
+              "media_key": "3_2055328039505137665",
+              "start": 17,
+              "url": "https://t.co/LF5UkB8UgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055328084048674843",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "everyday#drugwet https://t.co/LF5UkB8UgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n钟爱迷幻剂 99.7%dpt 以及99%4ho\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 122,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 99,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "太子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 27,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      }
+    ]
+  }
+}

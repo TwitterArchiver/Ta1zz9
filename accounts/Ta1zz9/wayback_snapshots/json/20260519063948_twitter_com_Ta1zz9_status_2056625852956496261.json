@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2056621491056521430",
+    "created_at": "2026-05-19T06:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056625852956496261"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056625852956496261",
+    "in_reply_to_user_id": "2041738773114044416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056621491056521430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目前只有色胺类迷幻剂苯乙胺类迷幻剂以及兴奋剂 抑制剂 解离剂 我要去医院开点阿片！ 库存充足是幸福的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056621424950001665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqWSh-aQAECxe8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056621424937472000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqWSh7bEAAp4wH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2056621491056521430",
+        "created_at": "2026-05-19T06:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056625852956496261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056625852956496261",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056621491056521430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前只有色胺类迷幻剂苯乙胺类迷幻剂以及兴奋剂 抑制剂 解离剂 我要去医院开点阿片！ 库存充足是幸福的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056621424950001665",
+            "3_2056621424937472000"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "conversation_id": "2056621491056521430",
+        "created_at": "2026-05-19T06:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056621491056521430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AF28R8VnUM",
+              "end": 31,
+              "expanded_url": "https://x.com/Ta1zz9/status/2056621491056521430/photo/1",
+              "media_key": "3_2056621424950001665",
+              "start": 8,
+              "url": "https://t.co/AF28R8VnUM"
+            },
+            {
+              "display_url": "pic.x.com/AF28R8VnUM",
+              "end": 31,
+              "expanded_url": "https://x.com/Ta1zz9/status/2056621491056521430/photo/1",
+              "media_key": "3_2056621424937472000",
+              "start": 8,
+              "url": "https://t.co/AF28R8VnUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056621491056521430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵 武器库 https://t.co/AF28R8VnUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 160,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 137,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 34,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      }
+    ]
+  }
+}

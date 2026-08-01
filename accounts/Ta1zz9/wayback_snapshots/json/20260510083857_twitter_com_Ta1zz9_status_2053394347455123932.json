@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2053235074922147932",
+    "created_at": "2026-05-10T08:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053394347455123932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1772861605497413632",
+          "start": 0,
+          "username": "duskjohan7308"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053394347455123932",
+    "in_reply_to_user_id": "1772861605497413632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053373529941577780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duskjohan7308 我去问问她 我现在还在dpt旅程中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2053235074922147932",
+        "created_at": "2026-05-10T08:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053394347455123932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1772861605497413632",
+              "start": 0,
+              "username": "duskjohan7308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053394347455123932",
+        "in_reply_to_user_id": "1772861605497413632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053373529941577780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duskjohan7308 我去问问她 我现在还在dpt旅程中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772861605497413632",
+        "conversation_id": "2053235074922147932",
+        "created_at": "2026-05-10T07:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053373529941577780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041738773114044416",
+              "start": 0,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053373529941577780",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053235074922147932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz9 哪里能买到🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n双相\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 91,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 68,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 22,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 81
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T05:42:07.000Z",
+        "description": "现居广东深圳罗湖 性别：男 非MTF 爱好：历史 2月12日生 不善沟通 但如果你有烦恼我会尽己所能帮助你",
+        "id": "1772861605497413632",
+        "location": "广东深圳罗湖",
+        "name": "Duskjohan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772861943591862272/2X2WcgPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 51,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "duskjohan7308",
+        "verified": false
+      }
+    ]
+  }
+}

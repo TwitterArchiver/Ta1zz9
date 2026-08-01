@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2051927214309159249",
+    "created_at": "2026-05-06T09:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051950276748402801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051950276748402801",
+    "in_reply_to_user_id": "1937073350750466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051927214309159249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 海洛因不是迷幻剂 迷幻剂确实会存在成瘾性 但极小（可忽略不计）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2051927214309159249",
+        "created_at": "2026-05-06T09:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051950276748402801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051950276748402801",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051927214309159249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 海洛因不是迷幻剂 迷幻剂确实会存在成瘾性 但极小（可忽略不计）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2051927214309159249",
+        "created_at": "2026-05-06T07:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051927214309159249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/bbcchinese/status/2051269253563580504",
+              "start": 58,
+              "url": "https://t.co/SIsH9s39Zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051927214309159249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 327,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051269253563580504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大陆人看到这个的第一反应就是用海洛因去戒鸦片，但是傻逼基本盘们不知道迷幻剂没有成瘾性耐受建立极快你想成瘾都不行😂🤓 https://t.co/SIsH9s39Zj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "精神病 失控与绝望\nhttps://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 33,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 10,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 21,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 438,
+          "like_count": 23568,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 4163
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

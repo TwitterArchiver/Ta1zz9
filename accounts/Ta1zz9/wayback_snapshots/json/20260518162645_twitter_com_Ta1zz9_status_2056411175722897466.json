@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2056411175722897466",
+    "created_at": "2026-05-18T16:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056411175722897466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2052601714419658752",
+          "start": 3,
+          "username": "Crystallize888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056411175722897466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056379927101121021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Crystallize888: 西格玛高原造就西格玛男人\n不闻女色：右美普瑞抑制星宇\n自我强大：ssri抗抑郁\n独来独往：解离麻醉令人喜好独处\n互相平等：药效造就的哲学思考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2056411175722897466",
+        "created_at": "2026-05-18T16:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056411175722897466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2052601714419658752",
+              "start": 3,
+              "username": "Crystallize888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056411175722897466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056379927101121021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Crystallize888: 西格玛高原造就西格玛男人\n不闻女色：右美普瑞抑制星宇\n自我强大：ssri抗抑郁\n独来独往：解离麻醉令人喜好独处\n互相平等：药效造就的哲学思考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052601714419658752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2056379927101121021",
+        "created_at": "2026-05-18T14:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056379927101121021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056379927101121021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "西格玛高原造就西格玛男人\n不闻女色：右美普瑞抑制星宇\n自我强大：ssri抗抑郁\n独来独往：解离麻醉令人喜好独处\n互相平等：药效造就的哲学思考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 160,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 137,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 32,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 212
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T04:09:58.000Z",
+        "description": "Offical X Acoount Of https://t.co/MkurdUoEKF\n #結晶化\n多人帳號 亞文化 言論自由 OD\n\n！網站和社群在置頂推文！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "結晶化"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Crystallize.Club",
+                "end": 44,
+                "expanded_url": "http://Crystallize.Club",
+                "start": 21,
+                "url": "https://t.co/MkurdUoEKF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/cIXzl6dJ8c"
+              }
+            ]
+          }
+        },
+        "id": "2052601714419658752",
+        "location": "Tai Wan",
+        "name": "結晶化 - Crystallize 精神物質結晶圈",
+        "pinned_tweet_id": "2054172285578453071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054166877304197120/XhSr4TLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 64,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/cIXzl6dJ8c",
+        "username": "Crystallize888",
+        "verified": true
+      }
+    ]
+  }
+}

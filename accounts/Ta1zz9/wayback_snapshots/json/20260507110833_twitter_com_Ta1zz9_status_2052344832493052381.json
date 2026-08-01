@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052344822552526848"
+      ]
+    },
+    "author_id": "2041738773114044416",
+    "conversation_id": "2052236184915792240",
+    "created_at": "2026-05-07T11:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052344832493052381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883768460993552385",
+          "start": 0,
+          "username": "XiShangguan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pij7rJAYAg",
+          "end": 83,
+          "expanded_url": "https://x.com/Ta1zz9/status/2052344832493052381/photo/1",
+          "media_key": "3_2052344822552526848",
+          "start": 60,
+          "url": "https://t.co/Pij7rJAYAg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052344832493052381",
+    "in_reply_to_user_id": "1883768460993552385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052236184915792240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiShangguan 我经历过其实还好 就是控制不了自己的躯体 在医院躺了几天 一直震颤包括睡觉 根本睡不着吧其实 https://t.co/Pij7rJAYAg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052344822552526848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtkvgjbAAANfOc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052344822552526848"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "conversation_id": "2052236184915792240",
+        "created_at": "2026-05-07T11:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052344832493052381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pij7rJAYAg",
+              "end": 83,
+              "expanded_url": "https://x.com/Ta1zz9/status/2052344832493052381/photo/1",
+              "media_key": "3_2052344822552526848",
+              "start": 60,
+              "url": "https://t.co/Pij7rJAYAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052344832493052381",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052236184915792240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 我经历过其实还好 就是控制不了自己的躯体 在医院躺了几天 一直震颤包括睡觉 根本睡不着吧其实 https://t.co/Pij7rJAYAg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2052236184915792240",
+        "created_at": "2026-05-07T03:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052236184915792240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052236184915792240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好害怕癫痫呐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 88,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 65,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 23,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 62
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "这里是上官曦✞08年生✞ODER✞性冷淡✞INFP✞查成分互fo，忘记麻烦私信✞私宅一枚✞喜欢日轻✞负能量⚠✞碎碎念✞术术人✞xp粉毛✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞至死追随@tngxngxng13171✞没能及时回信息致歉✞拒绝线下✞友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 110,
+                "username": "tngxngxng13171"
+              }
+            ]
+          }
+        },
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日（戒o中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 214,
+          "like_count": 7100,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1651
+        },
+        "username": "XiShangguan",
+        "verified": false
+      }
+    ]
+  }
+}

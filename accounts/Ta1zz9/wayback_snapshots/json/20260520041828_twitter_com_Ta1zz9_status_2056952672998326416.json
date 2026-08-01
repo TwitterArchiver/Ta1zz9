@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2056652273468764330",
+    "created_at": "2026-05-20T04:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056952672998326416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052601714419658752",
+          "start": 0,
+          "username": "Crystallize888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056952672998326416",
+    "in_reply_to_user_id": "2052601714419658752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056652273468764330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crystallize888 每次dpt大部分是good trip 只有一次 bad trip 烫吸250mg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_2056651963027382273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqyEFLbYAEssTp.png",
+        "width": 540
+      },
+      {
+        "height": 253,
+        "media_key": "3_2056651989149495296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqyFmfbMAAyjTc.png",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2056652273468764330",
+        "created_at": "2026-05-20T04:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056952672998326416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052601714419658752",
+              "start": 0,
+              "username": "Crystallize888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056952672998326416",
+        "in_reply_to_user_id": "2052601714419658752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056652273468764330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crystallize888 每次dpt大部分是good trip 只有一次 bad trip 烫吸250mg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056651963027382273",
+            "3_2056651989149495296"
+          ]
+        },
+        "author_id": "2052601714419658752",
+        "conversation_id": "2056652273468764330",
+        "created_at": "2026-05-19T08:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056652273468764330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThAGfNjN7y",
+              "end": 170,
+              "expanded_url": "https://x.com/Crystallize888/status/2056652273468764330/photo/1",
+              "media_key": "3_2056651963027382273",
+              "start": 147,
+              "url": "https://t.co/ThAGfNjN7y"
+            },
+            {
+              "display_url": "pic.x.com/ThAGfNjN7y",
+              "end": 170,
+              "expanded_url": "https://x.com/Crystallize888/status/2056652273468764330/photo/1",
+              "media_key": "3_2056651989149495296",
+              "start": 147,
+              "url": "https://t.co/ThAGfNjN7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056652273468764330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我给大家说下是什么情况，首先我们百科没有人吃晚安，也是最正统的，也有专业的人编写，鸡哥和后藤组了wiki结果鸡哥吃了晚安疯了天天骚扰，后藤受不了了就跑路了，后来鸡哥投靠了沐雨，结果沐雨好心把鸡哥晚安扔了，管着他几个月，结果鸡哥又偷偷买了晚安，555吃了dpt精神出问题了，鸡哥后面又带555吃晚安，于是555想着一月而下结果后藤复活了，555好像已经没了，现在odwiki就剩后藤了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4083,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给大家说下是什么情况，首先我们百科没有人吃晚安，也是最正统的，也有专业的人编写，鸡哥和后藤组了wiki结果鸡哥吃了晚安疯了天天骚扰，后藤受不了了就跑路了，后来鸡哥投靠了沐雨，结果沐雨好心把鸡哥晚安扔了，管着他几个月，结果鸡哥又偷偷买了晚安，555吃了dpt精神出问题了，鸡哥后面又带555吃 https://t.co/ThAGfNjN7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 157,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 134,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2056646606813118927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 38,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 259
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T04:09:58.000Z",
+        "description": "Offical X Acoount Of https://t.co/MkurdUoEKF\n #結晶化\n多人帳號 亞文化 言論自由 不出東西不擔保交易\n\n！網站和社群在置頂推文！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "結晶化"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Crystallize.Club",
+                "end": 44,
+                "expanded_url": "http://Crystallize.Club",
+                "start": 21,
+                "url": "https://t.co/MkurdUoEKF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/cIXzl6egXK"
+              }
+            ]
+          }
+        },
+        "id": "2052601714419658752",
+        "location": "Tai Wan",
+        "name": "結晶化 - Crystallize 精神物質結晶圈",
+        "pinned_tweet_id": "2054172285578453071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054166877304197120/XhSr4TLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 66,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/cIXzl6egXK",
+        "username": "Crystallize888",
+        "verified": true
+      }
+    ]
+  }
+}

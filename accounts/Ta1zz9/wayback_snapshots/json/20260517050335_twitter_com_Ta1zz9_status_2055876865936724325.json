@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2055866845635489995",
+    "created_at": "2026-05-17T05:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055876865936724325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043195258620510208",
+          "start": 0,
+          "username": "lonely4kitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055876865936724325",
+    "in_reply_to_user_id": "2043195258620510208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055874956547035165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonely4kitten 我忘了我发过几遍又删了几遍 我不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2055866845635489995",
+        "created_at": "2026-05-17T05:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055876865936724325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043195258620510208",
+              "start": 0,
+              "username": "lonely4kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055876865936724325",
+        "in_reply_to_user_id": "2043195258620510208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055874956547035165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonely4kitten 我忘了我发过几遍又删了几遍 我不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043195258620510208",
+        "conversation_id": "2055866845635489995",
+        "created_at": "2026-05-17T04:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055874956547035165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041738773114044416",
+              "start": 0,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055874956547035165",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055866845635489995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz9 这张图你还要发几遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。综上总结为一事无成者\n钟爱致幻剂与迷幻剂\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 160,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 137,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "太子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 29,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T05:11:46.000Z",
+        "description": "174/120斤 罩杯C🚪v88好友位 接有偿线下\n只回支付宝口令红包和萌妹子 叫我kaki就好^_^已过空空 UU等大v认证 萌妹子可以跟我互fo互转 直fo就行我都会回关的 那个，你们别嫌我发的太狂野哦",
+        "id": "2043195258620510208",
+        "location": "接纯绿和半绿🈚️非绿",
+        "name": "kaki",
+        "pinned_tweet_id": "2051552034470727764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043201275643535360/x53xXTC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 17,
+          "like_count": 136,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 84
+        },
+        "username": "lonely4kitten",
+        "verified": false
+      }
+    ]
+  }
+}

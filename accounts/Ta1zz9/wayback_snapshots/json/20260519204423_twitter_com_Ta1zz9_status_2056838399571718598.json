@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056578618239963136",
+        "3_2056578618244141056"
+      ],
+      "media_source_tweet_id": [
+        "2056578626896937164",
+        "2056578626896937164"
+      ]
+    },
+    "author_id": "2041738773114044416",
+    "conversation_id": "2056838399571718598",
+    "created_at": "2026-05-19T20:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T21:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056838399571718598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041738773114044416",
+          "start": 3,
+          "username": "Ta1zz9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1cXLohTtqh",
+          "end": 64,
+          "expanded_url": "https://x.com/Ta1zz9/status/2056578626896937164/photo/1",
+          "media_key": "3_2056578618239963136",
+          "start": 41,
+          "url": "https://t.co/1cXLohTtqh"
+        },
+        {
+          "display_url": "pic.x.com/1cXLohTtqh",
+          "end": 64,
+          "expanded_url": "https://x.com/Ta1zz9/status/2056578626896937164/photo/1",
+          "media_key": "3_2056578618244141056",
+          "start": 41,
+          "url": "https://t.co/1cXLohTtqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056838399571718598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056578626896937164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ta1zz9: 绝对不割手手了不割脖子了 喜提两月精神病院出来后痛改前非 https://t.co/1cXLohTtqh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056838399571718598].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056838399571718598",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056838399571718598"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056578618239963136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpvW2jbUAAv_cj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056578618244141056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpvW2kbEAA4v4Q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056578618239963136",
+            "3_2056578618244141056"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "conversation_id": "2056578626896937164",
+        "created_at": "2026-05-19T03:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056578626896937164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1cXLohTtqh",
+              "end": 52,
+              "expanded_url": "https://x.com/Ta1zz9/status/2056578626896937164/photo/1",
+              "media_key": "3_2056578618239963136",
+              "start": 29,
+              "url": "https://t.co/1cXLohTtqh"
+            },
+            {
+              "display_url": "pic.x.com/1cXLohTtqh",
+              "end": 52,
+              "expanded_url": "https://x.com/Ta1zz9/status/2056578626896937164/photo/1",
+              "media_key": "3_2056578618244141056",
+              "start": 29,
+              "url": "https://t.co/1cXLohTtqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056578626896937164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝对不割手手了不割脖子了 喜提两月精神病院出来后痛改前非 https://t.co/1cXLohTtqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 157,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 134,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2056646606813118927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 36,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      }
+    ]
+  }
+}

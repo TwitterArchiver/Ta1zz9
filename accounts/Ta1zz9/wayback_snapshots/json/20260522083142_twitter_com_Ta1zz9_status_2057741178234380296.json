@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2056837987338703237",
+    "created_at": "2026-05-22T08:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057741178234380296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1877733965966286848",
+          "start": 0,
+          "username": "Lincat__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057741178234380296",
+    "in_reply_to_user_id": "1877733965966286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056859149598871661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lincat__ 我只是试一下药物联用 我不是为了欣快。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2056837987338703237",
+        "created_at": "2026-05-22T08:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057741178234380296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1877733965966286848",
+              "start": 0,
+              "username": "Lincat__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057741178234380296",
+        "in_reply_to_user_id": "1877733965966286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056859149598871661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lincat__ 我只是试一下药物联用 我不是为了欣快。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877733965966286848",
+        "conversation_id": "2056837987338703237",
+        "created_at": "2026-05-19T22:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056859149598871661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041738773114044416",
+              "start": 0,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056859149598871661",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056837987338703237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz9 不要伤害自己的身体 你明明很痛苦呀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/种植爱好者/心率不齐之人痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂也是阿片鬼\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 159,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 136,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 40,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T15:07:42.000Z",
+        "description": "不看私信",
+        "id": "1877733965966286848",
+        "name": "lin cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056798933587013632/LgBXKorb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "Lincat__",
+        "verified": false
+      }
+    ]
+  }
+}

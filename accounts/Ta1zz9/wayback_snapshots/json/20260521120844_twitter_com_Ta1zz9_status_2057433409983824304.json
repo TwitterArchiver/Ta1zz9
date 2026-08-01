@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2057406779903156552",
+    "created_at": "2026-05-21T12:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057433409983824304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1558521768976846849",
+          "start": 0,
+          "username": "Lv4yI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057433409983824304",
+    "in_reply_to_user_id": "1558521768976846849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057406779903156552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lv4yI 预算多少 优先st琴形就不会错 拾音器看你玩的风格选"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2057406779903156552",
+        "created_at": "2026-05-21T12:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057433409983824304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1558521768976846849",
+              "start": 0,
+              "username": "Lv4yI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057433409983824304",
+        "in_reply_to_user_id": "1558521768976846849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057406779903156552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lv4yI 预算多少 优先st琴形就不会错 拾音器看你玩的风格选"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558521768976846849",
+        "conversation_id": "2057406779903156552",
+        "created_at": "2026-05-21T10:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057406779903156552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057406779903156552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 482,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想学吉他🎸，入门的话要买什么款式好呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 157,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 134,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 39,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T18:32:09.000Z",
+        "description": "キティって呼んで| 🇨🇳 | 20↑ | 🚺 | 日本語を勉強し始めたばかり♡ | @k1ttyiwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "k1ttyiwi"
+              }
+            ]
+          }
+        },
+        "id": "1558521768976846849",
+        "name": "小郁",
+        "pinned_tweet_id": "2054953436551234036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053283168728608768/kOamveHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 93,
+          "like_count": 6430,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 904
+        },
+        "username": "Lv4yI",
+        "verified": true
+      }
+    ]
+  }
+}

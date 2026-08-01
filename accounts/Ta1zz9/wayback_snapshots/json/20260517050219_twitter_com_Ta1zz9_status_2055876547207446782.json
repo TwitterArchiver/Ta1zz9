@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2055868626616586335",
+    "created_at": "2026-05-17T05:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055876547207446782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3022697779",
+          "start": 0,
+          "username": "RXdruglab"
+        },
+        {
+          "end": 22,
+          "id": "1847712034361659392",
+          "start": 11,
+          "username": "JiguangLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055876547207446782",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055868626616586335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXdruglab @JiguangLab 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2055868626616586335",
+        "created_at": "2026-05-17T05:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055876547207446782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 22,
+              "id": "1847712034361659392",
+              "start": 11,
+              "username": "JiguangLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055876547207446782",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055868626616586335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @JiguangLab 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2055868626616586335",
+        "created_at": "2026-05-17T04:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055868626616586335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sacred1124/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/sacred1124/status/2055662929291472953",
+              "start": 22,
+              "url": "https://t.co/cGXYpNWmK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055868626616586335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055662929291472953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从来没有听说谁吃试剂因为杂质多而有事的。 https://t.co/cGXYpNWmK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。综上总结为一事无成者\n钟爱致幻剂与迷幻剂\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 160,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 137,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "太子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 29,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19312,
+          "following_count": 17,
+          "like_count": 37,
+          "listed_count": 22,
+          "media_count": 55,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2055582423321334145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 928,
+          "like_count": 24751,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 3110
+        },
+        "username": "JiguangLab",
+        "verified": false
+      }
+    ]
+  }
+}

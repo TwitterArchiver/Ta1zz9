@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055928948077514752"
+      ]
+    },
+    "author_id": "2041738773114044416",
+    "conversation_id": "2055928956474520057",
+    "created_at": "2026-05-17T08:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055928956474520057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iuWKPZPr8X",
+          "end": 23,
+          "expanded_url": "https://x.com/Ta1zz9/status/2055928956474520057/photo/1",
+          "media_key": "3_2055928948077514752",
+          "start": 0,
+          "url": "https://t.co/iuWKPZPr8X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055928956474520057",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/iuWKPZPr8X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2055928948077514752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIggfEmaUAAeV0O.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055928948077514752"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "conversation_id": "2055928956474520057",
+        "created_at": "2026-05-17T08:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055928956474520057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuWKPZPr8X",
+              "end": 23,
+              "expanded_url": "https://x.com/Ta1zz9/status/2055928956474520057/photo/1",
+              "media_key": "3_2055928948077514752",
+              "start": 0,
+              "url": "https://t.co/iuWKPZPr8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055928956474520057",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iuWKPZPr8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。综上总结为一事无成者\n钟爱致幻剂与迷幻剂\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 160,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 137,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 31,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      }
+    ]
+  }
+}

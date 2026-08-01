@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2055159068772515917",
+    "created_at": "2026-05-15T08:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055200851803971955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556198265061646336",
+          "start": 0,
+          "username": "hfymomoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055200851803971955",
+    "in_reply_to_user_id": "1556198265061646336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055159068772515917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomoj 想吃🍄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2055159068772515917",
+        "created_at": "2026-05-15T08:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055200851803971955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556198265061646336",
+              "start": 0,
+              "username": "hfymomoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055200851803971955",
+        "in_reply_to_user_id": "1556198265061646336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055159068772515917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomoj 想吃🍄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556198265061646336",
+        "conversation_id": "2055159068772515917",
+        "created_at": "2026-05-15T05:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055159068772515917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055159068772515917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1081,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想飞🍃~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n钟爱迷幻剂 99.7%dpt 以及99%4ho\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 122,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 99,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "太子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 26,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 160
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:39:24.000Z",
+        "description": "我是傻福 营业号在@Gniy666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "1556198265061646336",
+        "location": " 🚪520/1314",
+        "name": "治疗术",
+        "pinned_tweet_id": "1923963433491530106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015482573737381888/HVyMkmvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57421,
+          "following_count": 98,
+          "like_count": 4285,
+          "listed_count": 146,
+          "media_count": 177,
+          "tweet_count": 2460
+        },
+        "username": "hfymomoj",
+        "verified": false
+      }
+    ]
+  }
+}

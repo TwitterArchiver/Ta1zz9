@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2041753198411837947",
+    "created_at": "2026-04-08T05:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041753198411837947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2023717358205104133",
+          "start": 0,
+          "username": "maocao_420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041753198411837947",
+    "in_reply_to_user_id": "2023717358205104133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@maocao_420 天津有吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2041753198411837947",
+        "created_at": "2026-04-08T05:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041753198411837947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2023717358205104133",
+              "start": 0,
+              "username": "maocao_420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041753198411837947",
+        "in_reply_to_user_id": "2023717358205104133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@maocao_420 天津有吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "",
+        "id": "2041738773114044416",
+        "name": "TaIzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T11:13:48.000Z",
+        "description": "支持中國大麻合法化/除罪化/醫療大麻用途/娛樂大麻用途/貓貓青草店/TG7年老平台出圈拓客",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Nun_cat420",
+                "end": 23,
+                "expanded_url": "https://t.me/Nun_cat420",
+                "start": 0,
+                "url": "https://t.co/n9IC8HwApT"
+              }
+            ]
+          }
+        },
+        "id": "2023717358205104133",
+        "location": "飞行中国",
+        "name": "猫猫青草420shop(weed大麻/thc vape电子烟)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023805039719194624/Z5fmSCox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 24,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/n9IC8HwApT",
+        "username": "maocao_420",
+        "verified": false
+      }
+    ]
+  }
+}

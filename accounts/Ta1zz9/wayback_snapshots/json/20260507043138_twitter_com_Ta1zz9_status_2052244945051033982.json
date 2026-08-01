@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2052187798049091816",
+    "created_at": "2026-05-07T04:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052244945051033982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622114910133002241",
+          "start": 0,
+          "username": "xsh19068663"
+        },
+        {
+          "end": 26,
+          "id": "1919363955929362432",
+          "start": 13,
+          "username": "xiaomingmumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052244945051033982",
+    "in_reply_to_user_id": "1622114910133002241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052201070357848206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsh19068663 @xiaomingmumu 其实天津人挺没素质的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2052187798049091816",
+        "created_at": "2026-05-07T04:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052244945051033982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622114910133002241",
+              "start": 0,
+              "username": "xsh19068663"
+            },
+            {
+              "end": 26,
+              "id": "1919363955929362432",
+              "start": 13,
+              "username": "xiaomingmumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052244945051033982",
+        "in_reply_to_user_id": "1622114910133002241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052201070357848206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsh19068663 @xiaomingmumu 其实天津人挺没素质的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622114910133002241",
+        "conversation_id": "2052187798049091816",
+        "created_at": "2026-05-07T01:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052201070357848206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919363955929362432",
+              "start": 0,
+              "username": "xiaomingmumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052201070357848206",
+        "in_reply_to_user_id": "1919363955929362432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052187798049091816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomingmumu 我之前去玩也就是瞎溜达，晚上去海河那边散步。天津倒是挺松弛的，当地人也很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 88,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 65,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 21,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T06:08:55.000Z",
+        "description": "凡事发生皆有利于我",
+        "id": "1622114910133002241",
+        "location": "2.4km",
+        "name": "老公硬硬的原来是死了",
+        "pinned_tweet_id": "2025389471706050656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047853531894624256/uIrZEsBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 300,
+          "like_count": 1155,
+          "listed_count": 6,
+          "media_count": 173,
+          "tweet_count": 1230
+        },
+        "url": "",
+        "username": "xsh19068663",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界\n｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 32,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 9,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490886444429315/VErpiYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3100,
+          "following_count": 458,
+          "like_count": 19781,
+          "listed_count": 4,
+          "media_count": 514,
+          "tweet_count": 10978
+        },
+        "url": "",
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

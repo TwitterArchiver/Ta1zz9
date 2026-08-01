@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2051822046439760000",
+    "created_at": "2026-05-06T08:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051949766121316587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891362165317410816",
+          "start": 0,
+          "username": "Kris_Dreammer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051949766121316587",
+    "in_reply_to_user_id": "1891362165317410816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051822046439760000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kris_Dreammer 哪里都能买 只是你没有认真寻找过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2051822046439760000",
+        "created_at": "2026-05-06T08:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051949766121316587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891362165317410816",
+              "start": 0,
+              "username": "Kris_Dreammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051949766121316587",
+        "in_reply_to_user_id": "1891362165317410816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051822046439760000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kris_Dreammer 哪里都能买 只是你没有认真寻找过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891362165317410816",
+        "conversation_id": "2051822046439760000",
+        "created_at": "2026-05-06T00:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051822046439760000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/bbcchinese/status/2051269253563580504",
+              "start": 13,
+              "url": "https://t.co/pP67W0m6Z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051822046439760000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051269253563580504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到了，迷幻药物在哪里买 https://t.co/pP67W0m6Z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "精神病 失控与绝望\nhttps://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 33,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 10,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 21,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "药物滥用重度依赖 \n药圈萌新\n关注我的都回关\n目前只o愈美和普瑞（因为没有其他吃的）",
+        "id": "1891362165317410816",
+        "location": "自由",
+        "name": "kris（愈美大王版）",
+        "pinned_tweet_id": "2007887928459165768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 410,
+          "like_count": 3319,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1500
+        },
+        "username": "Kris_Dreammer",
+        "verified": false
+      }
+    ]
+  }
+}

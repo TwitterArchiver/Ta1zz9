@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2042687969522602382",
+    "created_at": "2026-04-25T01:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047848073544782198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1214385996579475456",
+          "start": 0,
+          "username": "Maychoi18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047848073544782198",
+    "in_reply_to_user_id": "1214385996579475456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047836748257075682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maychoi18 拽哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2042687969522602382",
+        "created_at": "2026-04-25T01:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047848073544782198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1214385996579475456",
+              "start": 0,
+              "username": "Maychoi18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047848073544782198",
+        "in_reply_to_user_id": "1214385996579475456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047836748257075682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maychoi18 拽哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1214385996579475456",
+        "conversation_id": "2042687969522602382",
+        "created_at": "2026-04-25T00:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047836748257075682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041738773114044416",
+              "start": 0,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047836748257075682",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042687969522602382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz9 灰騎士大導師之戒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "精神病 失控与绝望",
+        "id": "2041738773114044416",
+        "name": "TaIzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-07T03:19:49.000Z",
+        "description": "肥宅 藥娘  sissy \n支持一下\nhttps://t.co/f2NVN8ZEPG\n還有不要在我的文下面留言廣告",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fansone.co/post/580897169",
+                "end": 42,
+                "expanded_url": "https://fansone.co/post/580897169",
+                "start": 19,
+                "url": "https://t.co/f2NVN8ZEPG"
+              }
+            ]
+          }
+        },
+        "id": "1214385996579475456",
+        "location": "Taiwan",
+        "name": "Choimay 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1550294883751309312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034642782011465728/yPf5ss7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 2309,
+          "like_count": 36997,
+          "listed_count": 7,
+          "media_count": 142,
+          "tweet_count": 4144
+        },
+        "username": "Maychoi18",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2057049758523601396",
+    "created_at": "2026-05-20T12:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057083185725620631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931114312296538112",
+          "start": 0,
+          "username": "Ayumi_0222_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057083185725620631",
+    "in_reply_to_user_id": "1931114312296538112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057082738709332419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayumi_0222_ 我都得跟狗主任周旋半天才给我开一个星期量的羟考酮 呜呜呜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2057049758523601396",
+        "created_at": "2026-05-20T12:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057083185725620631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931114312296538112",
+              "start": 0,
+              "username": "Ayumi_0222_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057083185725620631",
+        "in_reply_to_user_id": "1931114312296538112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057082738709332419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayumi_0222_ 我都得跟狗主任周旋半天才给我开一个星期量的羟考酮 呜呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931114312296538112",
+        "conversation_id": "2057049758523601396",
+        "created_at": "2026-05-20T12:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057082738709332419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041738773114044416",
+              "start": 0,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057082738709332419",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057081942999552069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz9 等我当上神内医师来找我开药吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 157,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 134,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 36,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T22:22:42.000Z",
+        "description": "AYUMI OF THE GODS\n@OneMultiplied",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "OneMultiplied"
+              }
+            ]
+          }
+        },
+        "id": "1931114312296538112",
+        "location": "参宿四",
+        "name": "愛島零代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984666097728307205/dDatg5XI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 379,
+          "like_count": 3042,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1325
+        },
+        "username": "Ayumi_0222_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046907657127424001"
+      ]
+    },
+    "author_id": "2041738773114044416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046907770138751289",
+    "created_at": "2026-04-22T11:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046907770138751289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zgceMBUj9g",
+          "end": 30,
+          "expanded_url": "https://x.com/Ta1zz9/status/2046907770138751289/photo/1",
+          "media_key": "3_2046907657127424001",
+          "start": 7,
+          "url": "https://t.co/zgceMBUj9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046907770138751289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "解离还是下坠 https://t.co/zgceMBUj9g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2046907657127424001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgTq08bcAE7Nnb.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046907657127424001"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046907770138751289",
+        "created_at": "2026-04-22T11:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046907770138751289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgceMBUj9g",
+              "end": 30,
+              "expanded_url": "https://x.com/Ta1zz9/status/2046907770138751289/photo/1",
+              "media_key": "3_2046907657127424001",
+              "start": 7,
+              "url": "https://t.co/zgceMBUj9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046907770138751289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解离还是下坠 https://t.co/zgceMBUj9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "",
+        "id": "2041738773114044416",
+        "name": "TaIzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      }
+    ]
+  }
+}

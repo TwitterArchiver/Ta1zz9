@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2057073550704726374",
+    "created_at": "2026-05-21T18:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057531623445512206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032802107745824768",
+          "start": 0,
+          "username": "guangzhouxidu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057531623445512206",
+    "in_reply_to_user_id": "2032802107745824768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057529865562476872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guangzhouxidu 所以说我不建议大家说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2057073550704726374",
+        "created_at": "2026-05-21T18:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057531623445512206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032802107745824768",
+              "start": 0,
+              "username": "guangzhouxidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057531623445512206",
+        "in_reply_to_user_id": "2032802107745824768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057529865562476872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guangzhouxidu 所以说我不建议大家说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032802107745824768",
+        "conversation_id": "2057073550704726374",
+        "created_at": "2026-05-21T18:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057529865562476872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041738773114044416",
+              "start": 0,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057529865562476872",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057073550704726374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz9 现在什么人都在手搓策划药，而且都不会告知真实成分结构，因为害怕被列管，头晕呕吐发热各种效力随机出现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/种植爱好者/心率不齐之人痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂也是阿片鬼\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 159,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 136,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 39,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所 私信常开，接受投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 38,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 89
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

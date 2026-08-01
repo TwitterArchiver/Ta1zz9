@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2057752668874129781",
+    "created_at": "2026-05-22T18:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057885915046101414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989683790617382912",
+          "start": 0,
+          "username": "sequel_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057885915046101414",
+    "in_reply_to_user_id": "1989683790617382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057752668874129781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sequel_ovo 不好意思老师 药效中 就你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10568,
+        "height": 1280,
+        "media_key": "13_2057752560036163584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057752560036163584/img/-y0SgWd7ebn1aJvT.jpg",
+        "public_metrics": {
+          "view_count": 376
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057752560036163584/vid/avc1/320x568/gFOJnzHIYVefmh3J.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057752560036163584/vid/avc1/480x852/sr4Kblwzv7oxGkIn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057752560036163584/vid/avc1/720x1280/G7ARJrtsssV1-VlD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057752560036163584/pl/YaA0a_zz8cWOhcIe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2057752668874129781",
+        "created_at": "2026-05-22T18:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057885915046101414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989683790617382912",
+              "start": 0,
+              "username": "sequel_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057885915046101414",
+        "in_reply_to_user_id": "1989683790617382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057752668874129781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sequel_ovo 不好意思老师 药效中 就你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057752560036163584"
+          ]
+        },
+        "author_id": "1989683790617382912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2057752668874129781",
+        "created_at": "2026-05-22T09:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057752668874129781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 18,
+              "start": 7,
+              "tag": "十六夜ありさコスプレ"
+            },
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "着せ恋コスプレ"
+            },
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbpHtMdS14",
+              "end": 60,
+              "expanded_url": "https://x.com/sequel_ovo/status/2057752668874129781/video/1",
+              "media_key": "13_2057752560036163584",
+              "start": 37,
+              "url": "https://t.co/LbpHtMdS14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057752668874129781",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2417,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #十六夜ありさコスプレ #着せ恋コスプレ #cosplay https://t.co/LbpHtMdS14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/种植爱好者/心率不齐之人痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂也是阿片鬼\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 159,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 136,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 39,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T13:16:06.000Z",
+        "description": "喜欢我就给我过门槛🗝️ @sequel5418 @sequel2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "sequel5418"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "sequel2778"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/seuqelisctue13…",
+                "end": 23,
+                "expanded_url": "https://t.me/seuqelisctue1314",
+                "start": 0,
+                "url": "https://t.co/DiUshh4xpU"
+              }
+            ]
+          }
+        },
+        "id": "1989683790617382912",
+        "location": "🚪88/188/288/888",
+        "name": "续集",
+        "pinned_tweet_id": "2028676407652753761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032109712427401217/ANzWnftu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 64,
+          "like_count": 4154,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/DiUshh4xpU",
+        "username": "sequel_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

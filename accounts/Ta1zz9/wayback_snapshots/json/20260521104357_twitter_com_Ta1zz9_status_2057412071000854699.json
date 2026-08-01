@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2057075498740838460",
+    "created_at": "2026-05-21T10:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057412071000854699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000658943144812548",
+          "start": 0,
+          "username": "lzh20100626hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057412071000854699",
+    "in_reply_to_user_id": "2000658943144812548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057075498740838460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzh20100626hh 海河观光车"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057075271254306816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwzD3NacAABCw5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057075270558117888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwzD0nbcAAKL7k.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057075274748166144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwzEEOagAAgiKy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057075276019122176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwzEI9bwAAeZdG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2057075498740838460",
+        "created_at": "2026-05-21T10:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057412071000854699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000658943144812548",
+              "start": 0,
+              "username": "lzh20100626hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057412071000854699",
+        "in_reply_to_user_id": "2000658943144812548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057075498740838460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzh20100626hh 海河观光车"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057075271254306816",
+            "3_2057075270558117888",
+            "3_2057075274748166144",
+            "3_2057075276019122176"
+          ]
+        },
+        "author_id": "2000658943144812548",
+        "conversation_id": "2057075498740838460",
+        "created_at": "2026-05-20T12:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057075498740838460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vls8EKcQfB",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2057075498740838460/photo/1",
+              "media_key": "3_2057075271254306816",
+              "start": 0,
+              "url": "https://t.co/Vls8EKcQfB"
+            },
+            {
+              "display_url": "pic.x.com/Vls8EKcQfB",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2057075498740838460/photo/1",
+              "media_key": "3_2057075270558117888",
+              "start": 0,
+              "url": "https://t.co/Vls8EKcQfB"
+            },
+            {
+              "display_url": "pic.x.com/Vls8EKcQfB",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2057075498740838460/photo/1",
+              "media_key": "3_2057075274748166144",
+              "start": 0,
+              "url": "https://t.co/Vls8EKcQfB"
+            },
+            {
+              "display_url": "pic.x.com/Vls8EKcQfB",
+              "end": 23,
+              "expanded_url": "https://x.com/lzh20100626hh/status/2057075498740838460/photo/1",
+              "media_key": "3_2057075276019122176",
+              "start": 0,
+              "url": "https://t.co/Vls8EKcQfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057075498740838460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2807,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Vls8EKcQfB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 157,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 134,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 39,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T20:07:56.000Z",
+        "description": "尼古丁创造精神酒精确定思想  叫我鸦鸦什么外号都可以 梦想是所有人可以一直陪着鸦｜od｜双相｜解离型身份障碍｜ADHD｜双性恋｜鸦鸦是主人格 第二人格叫西西 第三人格是♂叫茧 ✨激推の@Lxmzs233明鏡✨小繁繁@Cristinai1b✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Lxmzs233"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Cristinai1b"
+              }
+            ]
+          }
+        },
+        "id": "2000658943144812548",
+        "name": "鸦",
+        "pinned_tweet_id": "2056744177984266427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000659703635025920/dQxLI0In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 316,
+          "like_count": 1388,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1064
+        },
+        "username": "lzh20100626hh",
+        "verified": false
+      }
+    ]
+  }
+}

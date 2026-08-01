@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2054857693756870694",
+    "created_at": "2026-05-15T06:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055176122888012280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050073911635894272",
+          "start": 0,
+          "username": "Lomyral114514"
+        },
+        {
+          "end": 30,
+          "id": "1638959586140098560",
+          "start": 15,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055176122888012280",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054857693756870694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral114514 @jiuyouforwhite 悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2054857693756870694",
+        "created_at": "2026-05-15T06:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055176122888012280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            },
+            {
+              "end": 30,
+              "id": "1638959586140098560",
+              "start": 15,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055176122888012280",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054857693756870694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 @jiuyouforwhite 悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2054857693756870694",
+        "created_at": "2026-05-14T09:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054857693756870694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638959586140098560",
+              "start": 3,
+              "username": "jiuyouforwhite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2053843958158266608",
+              "start": 51,
+              "url": "https://t.co/WD1aHLGNv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054857693756870694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2682,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053843958158266608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "悲报：@jiuyouforwhite因为太过想吃阿普唑仑而被msk击落，暂时无法回复私信，请诸位见谅 https://t.co/WD1aHLGNv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n钟爱迷幻剂 99.7%dpt 以及99%4ho\n双相\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 115,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 92,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "太子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 25,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 154
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 454,
+          "like_count": 2661,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回私我)",
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 1427,
+          "like_count": 4373,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 2197
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

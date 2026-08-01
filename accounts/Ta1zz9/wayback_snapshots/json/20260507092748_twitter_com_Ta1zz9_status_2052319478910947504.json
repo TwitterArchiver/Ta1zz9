@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2051516876489134135",
+    "created_at": "2026-05-07T09:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052319478910947504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650735415861870593",
+          "start": 0,
+          "username": "EDZ1SyJnHE42791"
+        },
+        {
+          "end": 31,
+          "id": "1891748269853700096",
+          "start": 17,
+          "username": "Entropy149868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052319478910947504",
+    "in_reply_to_user_id": "1650735415861870593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051562598219554989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EDZ1SyJnHE42791 @Entropy149868 鼻吸的话20mg是微少 可以看一看相关帖子 需要我可以发给你 很详细"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2051516876489134135",
+        "created_at": "2026-05-07T09:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052319478910947504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650735415861870593",
+              "start": 0,
+              "username": "EDZ1SyJnHE42791"
+            },
+            {
+              "end": 31,
+              "id": "1891748269853700096",
+              "start": 17,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052319478910947504",
+        "in_reply_to_user_id": "1650735415861870593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051562598219554989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EDZ1SyJnHE42791 @Entropy149868 鼻吸的话20mg是微少 可以看一看相关帖子 需要我可以发给你 很详细"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650735415861870593",
+        "conversation_id": "2051516876489134135",
+        "created_at": "2026-05-05T07:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051562598219554989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051562598219554989",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051516876489134135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 第一次用多少mg比较好呀🤠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 88,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 65,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 21,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 59
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T05:36:16.000Z",
+        "description": "",
+        "id": "1650735415861870593",
+        "location": "哈尔滨",
+        "name": "05",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028513794549514240/iNdo9gpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "EDZ1SyJnHE42791",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 435,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 484
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

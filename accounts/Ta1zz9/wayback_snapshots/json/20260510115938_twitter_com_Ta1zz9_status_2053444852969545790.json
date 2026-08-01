@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2053439183918952498",
+    "created_at": "2026-05-10T11:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053444852969545790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891748269853700096",
+          "start": 0,
+          "username": "Entropy149868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053444852969545790",
+    "in_reply_to_user_id": "1891748269853700096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053443260430127575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy149868 游离碱DPT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2053439183918952498",
+        "created_at": "2026-05-10T11:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053444852969545790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053444852969545790",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053443260430127575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 游离碱DPT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2053439183918952498",
+        "created_at": "2026-05-10T11:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053443260430127575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041738773114044416",
+              "start": 0,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053443260430127575",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053439183918952498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz9 何物质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n双相\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 91,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 68,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 22,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 97
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 452,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 520
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

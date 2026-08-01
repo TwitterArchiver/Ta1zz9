@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053029515111346176"
+      ]
+    },
+    "author_id": "2041738773114044416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052968763151274120",
+    "created_at": "2026-05-09T08:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053029527031570589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2009773968891469824",
+          "start": 0,
+          "username": "420bbnnkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q3axedSVrm",
+          "end": 41,
+          "expanded_url": "https://x.com/Ta1zz9/status/2053029527031570589/photo/1",
+          "media_key": "3_2053029515111346176",
+          "start": 18,
+          "url": "https://t.co/q3axedSVrm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053029527031570589",
+    "in_reply_to_user_id": "2009773968891469824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052968763151274120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420bbnnkk 这个是吧哈哈 https://t.co/q3axedSVrm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_2053029515111346176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3Td3GasAAzhAd.jpg",
+        "width": 1179
+      },
+      {
+        "height": 878,
+        "media_key": "3_2052968048836136961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2bkDYa0AE1SB7.png",
+        "width": 674
+      },
+      {
+        "height": 508,
+        "media_key": "3_2052968114489643008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2bn39b0AAHQN6.png",
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053029515111346176"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052968763151274120",
+        "created_at": "2026-05-09T08:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053029527031570589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2009773968891469824",
+              "start": 0,
+              "username": "420bbnnkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3axedSVrm",
+              "end": 41,
+              "expanded_url": "https://x.com/Ta1zz9/status/2053029527031570589/photo/1",
+              "media_key": "3_2053029515111346176",
+              "start": 18,
+              "url": "https://t.co/q3axedSVrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053029527031570589",
+        "in_reply_to_user_id": "2009773968891469824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052968763151274120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420bbnnkk 这个是吧哈哈 https://t.co/q3axedSVrm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052968048836136961",
+            "3_2052968114489643008"
+          ]
+        },
+        "author_id": "2009773968891469824",
+        "conversation_id": "2052968763151274120",
+        "created_at": "2026-05-09T04:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052968763151274120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kY4cdc5siY",
+              "end": 70,
+              "expanded_url": "https://x.com/420bbnnkk/status/2052968763151274120/photo/1",
+              "media_key": "3_2052968048836136961",
+              "start": 47,
+              "url": "https://t.co/kY4cdc5siY"
+            },
+            {
+              "display_url": "pic.x.com/kY4cdc5siY",
+              "end": 70,
+              "expanded_url": "https://x.com/420bbnnkk/status/2052968763151274120/photo/1",
+              "media_key": "3_2052968114489643008",
+              "start": 47,
+              "url": "https://t.co/kY4cdc5siY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052968763151274120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5.9骗子栏目更新，现在的骗子会ai制图，会主动打视频看货，请注意甄别此类骗子，切勿受骗上当 https://t.co/kY4cdc5siY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n双相\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 91,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 68,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 21,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:47:23.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，私信常开，接受投稿，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2009773968891469824",
+        "location": " Australia",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023055132632702976/i-G8Lq9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 41,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 112
+        },
+        "username": "420bbnnkk",
+        "verified": false
+      }
+    ]
+  }
+}

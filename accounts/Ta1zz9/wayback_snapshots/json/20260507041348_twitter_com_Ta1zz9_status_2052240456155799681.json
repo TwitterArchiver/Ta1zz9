@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2052227814846521761",
+    "created_at": "2026-05-07T04:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052240456155799681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995419766954291200",
+          "start": 0,
+          "username": "dinuanmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052240456155799681",
+    "in_reply_to_user_id": "1995419766954291200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052227814846521761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinuanmei 这琴很垃圾同价位看看雅马哈太平洋系列 很综合"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2052227723763073024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHr6PdkbQAAYzDe.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1830,
+        "media_key": "3_2052227723758895104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHr6PdjbgAAlTol.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2052227814846521761",
+        "created_at": "2026-05-07T04:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052240456155799681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995419766954291200",
+              "start": 0,
+              "username": "dinuanmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052240456155799681",
+        "in_reply_to_user_id": "1995419766954291200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052227814846521761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinuanmei 这琴很垃圾同价位看看雅马哈太平洋系列 很综合"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052227723763073024",
+            "3_2052227723758895104"
+          ]
+        },
+        "author_id": "1995419766954291200",
+        "conversation_id": "2052227814846521761",
+        "created_at": "2026-05-07T03:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052227814846521761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZRNnqan24D",
+              "end": 43,
+              "expanded_url": "https://x.com/dinuanmei/status/2052227814846521761/photo/1",
+              "media_key": "3_2052227723763073024",
+              "start": 20,
+              "url": "https://t.co/ZRNnqan24D"
+            },
+            {
+              "display_url": "pic.x.com/ZRNnqan24D",
+              "end": 43,
+              "expanded_url": "https://x.com/dinuanmei/status/2052227814846521761/photo/1",
+              "media_key": "3_2052227723758895104",
+              "start": 20,
+              "url": "https://t.co/ZRNnqan24D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052227814846521761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从今天开始我不要买新衣服了，攒钱买这个 https://t.co/ZRNnqan24D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 88,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 65,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 21,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "当朋友圈随便发，找我玩～所有人～好孤独～\n小号@zhishiyizhiy其实没什么好看的，但我想挂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "zhishiyizhiy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9C%A8%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9C%A8%E5%AD%901",
+                "start": 0,
+                "url": "https://t.co/D9em13eqlh"
+              }
+            ]
+          }
+        },
+        "id": "1995419766954291200",
+        "location": "向我提问",
+        "name": "木子 你还好吗？",
+        "pinned_tweet_id": "2052182614094864876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051564455046373376/AIcmqTCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 63,
+          "like_count": 1648,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/D9em13eqlh",
+        "username": "dinuanmei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047186697096691712"
+      ]
+    },
+    "author_id": "2041738773114044416",
+    "conversation_id": "2047187180217577552",
+    "created_at": "2026-04-23T05:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047187180217577552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iIZsXEPgd8",
+          "end": 29,
+          "expanded_url": "https://x.com/Ta1zz9/status/2047187180217577552/video/1",
+          "media_key": "13_2047186697096691712",
+          "start": 6,
+          "url": "https://t.co/iIZsXEPgd8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047187180217577552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做法ing https://t.co/iIZsXEPgd8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23533,
+        "height": 720,
+        "media_key": "13_2047186697096691712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047186697096691712/img/vm3wSRimVf22ceYD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047186697096691712/vid/avc1/480x270/SxkGslRj7WKYvUql.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047186697096691712/vid/avc1/640x360/ZzgMaZ-3sTgduOyY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047186697096691712/vid/avc1/1280x720/36smjEjZYlNmvOJ5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047186697096691712/pl/nwFdqjPYU4QhD50s.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047186697096691712"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "conversation_id": "2047187180217577552",
+        "created_at": "2026-04-23T05:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047187180217577552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIZsXEPgd8",
+              "end": 29,
+              "expanded_url": "https://x.com/Ta1zz9/status/2047187180217577552/video/1",
+              "media_key": "13_2047186697096691712",
+              "start": 6,
+              "url": "https://t.co/iIZsXEPgd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047187180217577552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做法ing https://t.co/iIZsXEPgd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "",
+        "id": "2041738773114044416",
+        "name": "TaIzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      }
+    ]
+  }
+}

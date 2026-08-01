@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2047343844589715664",
+    "created_at": "2026-04-24T04:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047527251940679974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917890381104271361",
+          "start": 0,
+          "username": "AV1O492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047527251940679974",
+    "in_reply_to_user_id": "1917890381104271361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047343844589715664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AV1O492 旋转加速 迷幻马赛克"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2047343844589715664",
+        "created_at": "2026-04-24T04:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047527251940679974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047527251940679974",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047343844589715664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 旋转加速 迷幻马赛克"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2047343844589715664",
+        "created_at": "2026-04-23T15:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047343844589715664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047343844589715664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没有LSD我少了好几种颜色 好几种感情 数以万计的灵感和九分之几的灵魂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "",
+        "id": "2041738773114044416",
+        "name": "TaIzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320949570277376/ns1syjsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 69,
+          "like_count": 3727,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

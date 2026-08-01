@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2056263317539492126",
+    "created_at": "2026-05-18T08:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056284650864349385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056284650864349385",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056263317539492126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu 就是肛塞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056263306705506304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlQlTjaEAAc2CS.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2056263317539492126",
+        "created_at": "2026-05-18T08:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056284650864349385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056284650864349385",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056263317539492126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 就是肛塞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056263306705506304"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2056263317539492126",
+        "created_at": "2026-05-18T06:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056263317539492126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zac8qttLu",
+              "end": 32,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2056263317539492126/photo/1",
+              "media_key": "3_2056263306705506304",
+              "start": 9,
+              "url": "https://t.co/6zac8qttLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056263317539492126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 797,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "鸡尘是什么毒品？ https://t.co/6zac8qttLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 160,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 137,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 31,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "旧名义：仿生喹硫平/关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "shungleemain"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 994,
+          "like_count": 4515,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

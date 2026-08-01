@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2051987245062832601",
+    "created_at": "2026-05-06T23:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T00:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052164070674235654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1351156425284866062",
+          "start": 0,
+          "username": "iyasinohako"
+        },
+        {
+          "end": 18,
+          "id": "1720665183188922368",
+          "start": 13,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052164070674235654",
+    "in_reply_to_user_id": "1351156425284866062",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051987245062832601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iyasinohako @grok what‘s this"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11000,
+        "height": 720,
+        "media_key": "7_1617308265230270464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1617308265230270464/pu/img/3TcvAuTWKVoYpEgc.jpg",
+        "public_metrics": {
+          "view_count": 8111217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1617308265230270464/pu/vid/320x320/HMyiQ3IKIPFpUfL0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1617308265230270464/pu/vid/540x540/_oEAdF-pj4XGkRZN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1617308265230270464/pu/vid/720x720/2kOTG1sKBvHUHo_m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1617308265230270464/pu/pl/aR_DOHYgAOvDIVPI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2051987245062832601",
+        "created_at": "2026-05-06T23:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T00:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052164070674235654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1351156425284866062",
+              "start": 0,
+              "username": "iyasinohako"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052164070674235654",
+        "in_reply_to_user_id": "1351156425284866062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051987245062832601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iyasinohako @grok what‘s this"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1617308265230270464"
+          ],
+          "media_source_tweet_id": [
+            "1617308296024850432"
+          ]
+        },
+        "author_id": "1351156425284866062",
+        "conversation_id": "2051987245062832601",
+        "created_at": "2026-05-06T11:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051987245062832601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dl3H16V3tH",
+              "end": 55,
+              "expanded_url": "https://x.com/HowThingWork/status/1617308296024850432/video/1",
+              "media_key": "7_1617308265230270464",
+              "start": 32,
+              "url": "https://t.co/Dl3H16V3tH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051987245062832601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3400,
+          "impression_count": 5955047,
+          "like_count": 9348,
+          "quote_count": 150,
+          "reply_count": 1216,
+          "retweet_count": 543
+        },
+        "reply_settings": "everyone",
+        "text": "クモの巣状静脈瘤(毛細血管拡張症)が一瞬で消えていく治療...\nhttps://t.co/Dl3H16V3tH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "精神病 失控与绝望\nhttps://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 33,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 10,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, USA",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-18T13:16:17.000Z",
+        "description": "Xの規約に従い引用で癒される動画を毎日投稿しています🦔✨全ての生き物の癒しになる動画をお届けしています💕",
+        "id": "1351156425284866062",
+        "location": "バズった癒し投稿は「動画」から👇",
+        "name": "癒される動物【アニマル】",
+        "pinned_tweet_id": "2032001099214045358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970416929526747136/LcDzyfLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62595,
+          "following_count": 117,
+          "like_count": 6158,
+          "listed_count": 197,
+          "media_count": 127,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "iyasinohako",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8701321,
+          "following_count": 4,
+          "like_count": 91,
+          "listed_count": 6797,
+          "media_count": 8900444,
+          "tweet_count": 124921086
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2055470006461432166",
+    "created_at": "2026-05-16T12:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055620657866768798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052601714419658752",
+          "start": 0,
+          "username": "Crystallize888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055620657866768798",
+    "in_reply_to_user_id": "2052601714419658752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055470006461432166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crystallize888 626会列啥呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2055469987146690560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZ_EB5a8AA3r0B.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2055470006461432166",
+        "created_at": "2026-05-16T12:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055620657866768798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052601714419658752",
+              "start": 0,
+              "username": "Crystallize888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055620657866768798",
+        "in_reply_to_user_id": "2052601714419658752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055470006461432166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crystallize888 626会列啥呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055469987146690560"
+          ]
+        },
+        "author_id": "2052601714419658752",
+        "conversation_id": "2055470006461432166",
+        "created_at": "2026-05-16T02:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055470006461432166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouOs69HEUc",
+              "end": 81,
+              "expanded_url": "https://x.com/Crystallize888/status/2055470006461432166/photo/1",
+              "media_key": "3_2055469987146690560",
+              "start": 58,
+              "url": "https://t.co/ouOs69HEUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055470006461432166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026年5月15日\n浙江政府已對替來他明，笑氣實施臨時列管政策，大家猜一下大陸今年7月1日會不會列管替來他明呢。 https://t.co/ouOs69HEUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n钟爱迷幻剂\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 104,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 81,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "太子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 28,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T04:09:58.000Z",
+        "description": "Offical X Acoount Of https://t.co/MkurdUpcAd\n#odtwt #shtwt #結晶化\n𝚜𝚑𝚎/𝚝𝚑𝚎𝚢♡ ⊹₊⟡⋆18𝚢𝚘♱ bmi 20,2\n☆real life anime main character\n⛧°⋆༺♱༻⋆°⛧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "odtwt"
+              },
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "shtwt"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "結晶化"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Crystallize.Club",
+                "end": 44,
+                "expanded_url": "http://Crystallize.Club",
+                "start": 21,
+                "url": "https://t.co/MkurdUpcAd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/cIXzl6egXK"
+              }
+            ]
+          }
+        },
+        "id": "2052601714419658752",
+        "location": "Tai Wan",
+        "name": "結晶化 - Crystallize 精神物質結晶圈",
+        "pinned_tweet_id": "2054172285578453071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054166877304197120/XhSr4TLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 44,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/cIXzl6egXK",
+        "username": "Crystallize888",
+        "verified": true
+      }
+    ]
+  }
+}

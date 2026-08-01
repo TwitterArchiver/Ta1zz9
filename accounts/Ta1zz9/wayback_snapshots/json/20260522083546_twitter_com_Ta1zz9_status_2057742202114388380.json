@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2057477020704239616",
+    "created_at": "2026-05-22T08:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057742202114388380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036847459864080384",
+          "start": 0,
+          "username": "swallowtai11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057742202114388380",
+    "in_reply_to_user_id": "2036847459864080384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057477020704239616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swallowtai11 按量服用镇静剂吧 需要娱乐的时候再过量服用其他物质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2057477020704239616",
+        "created_at": "2026-05-22T08:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057742202114388380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036847459864080384",
+              "start": 0,
+              "username": "swallowtai11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057742202114388380",
+        "in_reply_to_user_id": "2036847459864080384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057477020704239616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swallowtai11 按量服用镇静剂吧 需要娱乐的时候再过量服用其他物质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036847459864080384",
+        "conversation_id": "2057477020704239616",
+        "created_at": "2026-05-21T15:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057477020704239616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057477020704239616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1035,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经吃不起药了 日本进口的那个药要80一盒 然后最近好像清关不让过 以后没有药吃怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办崩溃了只能割手怎么办 不想o精神病药因为会一直呕吐还会进医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/种植爱好者/心率不齐之人痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂也是阿片鬼\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 159,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 136,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 40,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T16:48:49.000Z",
+        "description": "不约不谈别来问我了 05 od 自伤 喜欢画画发呆打游戏 叫我小挞就好了 这里只是堆放一些东西 想认识我可以点我的陪玩 要算的话大概就是🚪88吧送两个小时陪玩 这只是一种筛选方式",
+        "id": "2036847459864080384",
+        "name": "远方天台一跃而下",
+        "pinned_tweet_id": "2046103081759506829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039752838637928449/NLDBp40k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 54,
+          "like_count": 472,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 260
+        },
+        "username": "swallowtai11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2051797635091079210",
+    "created_at": "2026-05-07T00:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T01:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052185026373247084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1183781040034324482",
+          "start": 0,
+          "username": "839_AJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052185026373247084",
+    "in_reply_to_user_id": "1183781040034324482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051797635091079210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@839_AJ 依旧南极人性价比 bro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2051797635091079210",
+        "created_at": "2026-05-07T00:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052185026373247084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1183781040034324482",
+              "start": 0,
+              "username": "839_AJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052185026373247084",
+        "in_reply_to_user_id": "1183781040034324482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051797635091079210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@839_AJ 依旧南极人性价比 bro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183781040034324482",
+        "conversation_id": "2051797635091079210",
+        "created_at": "2026-05-05T22:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051797635091079210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051797635091079210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 152841,
+          "like_count": 554,
+          "quote_count": 5,
+          "reply_count": 254,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "穿Ck内裤是很平常的事情吗我一辈子没穿过，我觉得好贵啊看到价格就会立马划走的那种…俺们穷酸逼对这种东西都觉得能穿就行…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\nhttps://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 46,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-14T16:26:33.000Z",
+        "description": "02 好想上班",
+        "id": "1183781040034324482",
+        "location": "他吗了隔壁的Atlanta",
+        "name": "AAA839Supreme",
+        "pinned_tweet_id": "1988333911982899203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002966751680856064/R-qTOXYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17176,
+          "following_count": 771,
+          "like_count": 40978,
+          "listed_count": 60,
+          "media_count": 96,
+          "tweet_count": 12057
+        },
+        "url": "",
+        "username": "839_AJ",
+        "verified": false
+      }
+    ]
+  }
+}

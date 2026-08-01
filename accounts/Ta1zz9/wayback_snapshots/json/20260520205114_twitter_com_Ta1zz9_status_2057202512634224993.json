@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2055594416723640612",
+    "created_at": "2026-05-20T20:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T21:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057202512634224993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1525416713407172609",
+          "start": 0,
+          "username": "qusiawsmbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057202512634224993",
+    "in_reply_to_user_id": "1525416713407172609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055594416723640612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qusiawsmbu 我好像爱上你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2055594395475345408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbwNjCXgAAcWaL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2055594416723640612",
+        "created_at": "2026-05-20T20:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057202512634224993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1525416713407172609",
+              "start": 0,
+              "username": "qusiawsmbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057202512634224993",
+        "in_reply_to_user_id": "1525416713407172609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055594416723640612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusiawsmbu 我好像爱上你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055594395475345408"
+          ]
+        },
+        "author_id": "1525416713407172609",
+        "conversation_id": "2055594416723640612",
+        "created_at": "2026-05-16T10:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055594416723640612"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSRu4ZVk6q",
+              "end": 44,
+              "expanded_url": "https://x.com/qusiawsmbu/status/2055594416723640612/photo/1",
+              "media_key": "3_2055594395475345408",
+              "start": 21,
+              "url": "https://t.co/zSRu4ZVk6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055594416723640612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虚无的世界 但你我是真实存在的\n#雰囲気 https://t.co/zSRu4ZVk6q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 157,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 134,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 39,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 277
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T10:04:32.000Z",
+        "description": "赛博日记本 🚪在置顶 线下只接纯绿",
+        "id": "1525416713407172609",
+        "name": "Ixtab",
+        "pinned_tweet_id": "2037768852814336511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844851818276487168/ZVYvi1qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 148,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1331
+        },
+        "username": "qusiawsmbu",
+        "verified": false
+      }
+    ]
+  }
+}

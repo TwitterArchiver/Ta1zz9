@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2047333811411616233",
+    "created_at": "2026-04-24T03:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047521498324504861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1135753978048729088",
+          "start": 0,
+          "username": "Yinmo123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047521498324504861",
+    "in_reply_to_user_id": "1135753978048729088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047333811411616233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yinmo123 牛而逼之"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2047333811411616233",
+        "created_at": "2026-04-24T03:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047521498324504861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1135753978048729088",
+              "start": 0,
+              "username": "Yinmo123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047521498324504861",
+        "in_reply_to_user_id": "1135753978048729088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047333811411616233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yinmo123 牛而逼之"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135753978048729088",
+        "conversation_id": "2047333811411616233",
+        "created_at": "2026-04-23T15:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047333811411616233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ta1zz9/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ta1zz9/status/2046907770138751289",
+              "start": 6,
+              "url": "https://t.co/Cp8M4NXMY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047333811411616233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046907770138751289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我拍得好牛 https://t.co/Cp8M4NXMY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "",
+        "id": "2041738773114044416",
+        "name": "TaIzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-04T03:43:44.000Z",
+        "description": "黑色幽默至上主义/🚪150",
+        "id": "1135753978048729088",
+        "location": "理想乡",
+        "name": "吟默在想什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671408040292106244/bpgDORcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 187,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 308
+        },
+        "username": "Yinmo123",
+        "verified": false
+      }
+    ]
+  }
+}

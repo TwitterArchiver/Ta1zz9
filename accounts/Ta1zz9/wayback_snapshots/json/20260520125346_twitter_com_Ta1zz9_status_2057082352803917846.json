@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2057049947145670690",
+    "created_at": "2026-05-20T12:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057082352803917846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057082352803917846",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057049947145670690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy 俺不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1099,
+        "media_key": "3_2056687349497729024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrSP2DaEAA_nRN.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2057049947145670690",
+        "created_at": "2026-05-20T12:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057082352803917846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057082352803917846",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057049947145670690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 俺不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056687349497729024"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2057049947145670690",
+        "created_at": "2026-05-20T10:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057049947145670690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCiBTJP1Fs",
+              "end": 60,
+              "expanded_url": "https://x.com/GptRainy/status/2057049947145670690/photo/1",
+              "media_key": "3_2056687349497729024",
+              "start": 37,
+              "url": "https://t.co/KCiBTJP1Fs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057049947145670690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得了，！这个，od了之后。我，提升了，精神力？操你妈。，我要，练？功。 https://t.co/KCiBTJP1Fs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 157,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 134,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 36,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！不回关是因为怕回关太多被封号抱歉呜呜会慢慢回关的\n07年Transfem/🐱我的小猫叫卡尔/o割/🤖独立AI研究者/💊药物咨询 https://t.co/5EE1WxkPHD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 92,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 69,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 63,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

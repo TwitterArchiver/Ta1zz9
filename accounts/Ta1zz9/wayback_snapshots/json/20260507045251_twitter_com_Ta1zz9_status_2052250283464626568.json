@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2052227814846521761",
+    "created_at": "2026-05-07T04:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052250283464626568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995419766954291200",
+          "start": 0,
+          "username": "dinuanmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052250283464626568",
+    "in_reply_to_user_id": "1995419766954291200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052249246292979965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinuanmei 颜值溢价而已 看看ibz也可以 入门系列型号比较多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2052227814846521761",
+        "created_at": "2026-05-07T04:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052250283464626568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995419766954291200",
+              "start": 0,
+              "username": "dinuanmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052250283464626568",
+        "in_reply_to_user_id": "1995419766954291200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052249246292979965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinuanmei 颜值溢价而已 看看ibz也可以 入门系列型号比较多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995419766954291200",
+        "conversation_id": "2052227814846521761",
+        "created_at": "2026-05-07T04:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052249246292979965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041738773114044416",
+              "start": 0,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052249246292979965",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052240456155799681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz9 真的吗还挺贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 88,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 65,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 21,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "当朋友圈随便发，找我玩～所有人～好孤独～\n小号@zhishiyizhiy其实没什么好看的，但我想挂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "zhishiyizhiy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9C%A8%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9C%A8%E5%AD%901",
+                "start": 0,
+                "url": "https://t.co/D9em13eqlh"
+              }
+            ]
+          }
+        },
+        "id": "1995419766954291200",
+        "location": "向我提问",
+        "name": "木子 你还好吗？",
+        "pinned_tweet_id": "2052182614094864876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051564455046373376/AIcmqTCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 63,
+          "like_count": 1653,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/D9em13eqlh",
+        "username": "dinuanmei",
+        "verified": false
+      }
+    ]
+  }
+}

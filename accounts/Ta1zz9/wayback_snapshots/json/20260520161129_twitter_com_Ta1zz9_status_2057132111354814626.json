@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2057089029372621237",
+    "created_at": "2026-05-20T16:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057132111354814626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057132111354814626",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057089029372621237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 昨天凌晨进的icu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2057089029372621237",
+        "created_at": "2026-05-20T16:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057132111354814626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057132111354814626",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057089029372621237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 昨天凌晨进的icu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2057089029372621237",
+        "created_at": "2026-05-20T13:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057089029372621237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057089029372621237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 536,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿片不要跟苯二氮卓联用。。。\n具体的之后再说吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 157,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 134,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 37,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4008,
+          "following_count": 1289,
+          "like_count": 6742,
+          "listed_count": 8,
+          "media_count": 391,
+          "tweet_count": 1467
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

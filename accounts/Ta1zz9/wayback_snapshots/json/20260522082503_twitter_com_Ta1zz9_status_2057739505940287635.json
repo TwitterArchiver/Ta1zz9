@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2057542938511675812",
+    "created_at": "2026-05-22T08:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057739505940287635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914026553098268672",
+          "start": 0,
+          "username": "Iridium_xiaoyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057739505940287635",
+    "in_reply_to_user_id": "1914026553098268672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057731515543626080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iridium_xiaoyi no bzd苯二氮卓类终归是镇静剂 只是让你的兴奋感减弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2057542938511675812",
+        "created_at": "2026-05-22T08:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057739505940287635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914026553098268672",
+              "start": 0,
+              "username": "Iridium_xiaoyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057739505940287635",
+        "in_reply_to_user_id": "1914026553098268672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057731515543626080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iridium_xiaoyi no bzd苯二氮卓类终归是镇静剂 只是让你的兴奋感减弱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914026553098268672",
+        "conversation_id": "2057542938511675812",
+        "created_at": "2026-05-22T07:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057731515543626080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041738773114044416",
+              "start": 0,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057731515543626080",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057542938511675812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zz9 bzd可以下一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "🚪66 Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/种植爱好者/心率不齐之人痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂也是阿片鬼\n双相/181 45 tg链接在下方\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 159,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 136,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FNEoQOjJrb43Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FNEoQOjJrb43YTNh",
+                "start": 0,
+                "url": "https://t.co/e18SNWUmcW"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "pinned_tweet_id": "2057073550704726374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 40,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/e18SNWUmcW",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T18:41:22.000Z",
+        "description": "半糖xnn，mtx喵 最好的妹妹@FrostyStrings",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "1914026553098268672",
+        "name": "小铱酱Iridium～🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030320692533813248/FrkgxZ7J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 247,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 345
+        },
+        "username": "Iridium_xiaoyi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2052088756799181044",
+    "created_at": "2026-05-07T02:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052208362977464605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052208362977464605",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052088756799181044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051985785151442944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoeMyAaUAAzzR_.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2052088756799181044",
+        "created_at": "2026-05-07T02:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052208362977464605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052208362977464605",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052088756799181044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051985785151442944"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052088756799181044",
+        "created_at": "2026-05-06T18:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052088756799181044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WdABJv4bqc",
+              "end": 28,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2052088756799181044/photo/1",
+              "media_key": "3_2051985785151442944",
+              "start": 5,
+              "url": "https://t.co/WdABJv4bqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052088756799181044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 82259,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是人啊 https://t.co/WdABJv4bqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\nhttps://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 46,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8153,
+          "following_count": 2188,
+          "like_count": 28796,
+          "listed_count": 26,
+          "media_count": 1182,
+          "tweet_count": 4787
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

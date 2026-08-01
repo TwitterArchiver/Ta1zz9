@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2056413987596882408",
+    "created_at": "2026-05-18T16:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056416986276757725"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056416986276757725",
+    "in_reply_to_user_id": "2041738773114044416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056413987596882408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三天后来个猛的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056413978394570752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInZnjVbMAAUKEe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2056413987596882408",
+        "created_at": "2026-05-18T16:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056416986276757725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056416986276757725",
+        "in_reply_to_user_id": "2041738773114044416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056413987596882408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三天后来个猛的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056413978394570752"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "conversation_id": "2056413987596882408",
+        "created_at": "2026-05-18T16:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056413987596882408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Fbxduuer7",
+              "end": 66,
+              "expanded_url": "https://x.com/Ta1zz9/status/2056413987596882408/photo/1",
+              "media_key": "3_2056413978394570752",
+              "start": 43,
+              "url": "https://t.co/8Fbxduuer7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056413987596882408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我得恢复一下迷幻剂耐受了\n今天开始吃阿片以及抑制剂\n等我三天啊！俺的苯乙胺类和色胺类 https://t.co/8Fbxduuer7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n化学爱好者/神经学爱好者/药理学爱好者/迷幻掌控者/植物种植爱好者/心率不齐之人。痴迷烫吸 油灯管信徒\n钟爱致幻剂与迷幻剂\n双相/181 45\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 160,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 137,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_qUAWPxdfaA1O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_qUAWPxdfaA1ODNh",
+                "start": 0,
+                "url": "https://t.co/DjZVz8Hmfm"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "Ta1zz9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 33,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/DjZVz8Hmfm",
+        "username": "Ta1zz9",
+        "verified": false
+      }
+    ]
+  }
+}

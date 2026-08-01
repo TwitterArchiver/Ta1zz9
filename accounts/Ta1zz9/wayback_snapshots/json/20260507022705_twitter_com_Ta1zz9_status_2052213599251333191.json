@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2052122929979367609",
+    "created_at": "2026-05-07T02:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052213599251333191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984781220061089792",
+          "start": 0,
+          "username": "Miao83746Ying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052213599251333191",
+    "in_reply_to_user_id": "1984781220061089792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052122929979367609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miao83746Ying 别玩兽药了可怜的中国孩儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2052122929979367609",
+        "created_at": "2026-05-07T02:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052213599251333191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984781220061089792",
+              "start": 0,
+              "username": "Miao83746Ying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052213599251333191",
+        "in_reply_to_user_id": "1984781220061089792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052122929979367609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miao83746Ying 别玩兽药了可怜的中国孩儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984781220061089792",
+        "conversation_id": "2052122929979367609",
+        "created_at": "2026-05-06T20:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T21:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052122929979367609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052122929979367609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人没有啊？我好蒙逼啊，我咋又吸上了？我现在好晕啊，有人陪我聊天没有？我们来打电话吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\nhttps://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 46,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T00:35:04.000Z",
+        "description": "",
+        "id": "1984781220061089792",
+        "location": "🚪131.4/188",
+        "name": "幼犬",
+        "pinned_tweet_id": "1997866053679079879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987593888832327680/KDsIXFqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 25,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "Miao83746Ying",
+        "verified": false
+      }
+    ]
+  }
+}

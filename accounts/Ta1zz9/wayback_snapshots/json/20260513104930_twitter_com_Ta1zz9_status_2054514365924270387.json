@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054514353270095872"
+      ]
+    },
+    "author_id": "2041738773114044416",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054514365924270387",
+    "created_at": "2026-05-13T10:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054514365924270387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mTNG8WDNon",
+          "end": 40,
+          "expanded_url": "https://x.com/Ta1zz9/status/2054514365924270387/photo/1",
+          "media_key": "3_2054514353270095872",
+          "start": 17,
+          "url": "https://t.co/mTNG8WDNon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054514365924270387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "连续三天迷幻了 今天得抑制一下了 https://t.co/mTNG8WDNon"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054514353270095872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMZ60SbAAAlipy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054514353270095872"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054514365924270387",
+        "created_at": "2026-05-13T10:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054514365924270387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTNG8WDNon",
+              "end": 40,
+              "expanded_url": "https://x.com/Ta1zz9/status/2054514365924270387/photo/1",
+              "media_key": "3_2054514353270095872",
+              "start": 17,
+              "url": "https://t.co/mTNG8WDNon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054514365924270387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连续三天迷幻了 今天得抑制一下了 https://t.co/mTNG8WDNon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n双相\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 91,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 68,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "太子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 21,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 127
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      }
+    ]
+  }
+}

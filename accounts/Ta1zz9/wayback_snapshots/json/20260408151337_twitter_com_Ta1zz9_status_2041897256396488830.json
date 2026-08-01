@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2041863732691656783",
+    "created_at": "2026-04-08T15:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041897256396488830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915911519012864000",
+          "start": 0,
+          "username": "sinctyseeds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041897256396488830",
+    "in_reply_to_user_id": "1915911519012864000",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041863732691656783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sinctyseeds need"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2041863695542939648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYoNnyacAAqk9C.jpg",
+        "width": 960
+      },
+      {
+        "height": 1095,
+        "media_key": "3_2041863695517806595",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYoNnsa8AMeeEL.jpg",
+        "width": 862
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2041863696637685766",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYoNr3a8AYAvEm.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2041863695522025473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYoNntbUAEDdr-.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2041863732691656783",
+        "created_at": "2026-04-08T15:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041897256396488830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915911519012864000",
+              "start": 0,
+              "username": "sinctyseeds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041897256396488830",
+        "in_reply_to_user_id": "1915911519012864000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041863732691656783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinctyseeds need"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041863695542939648",
+            "3_2041863695517806595",
+            "3_2041863696637685766",
+            "3_2041863695522025473"
+          ]
+        },
+        "author_id": "1915911519012864000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041863732691656783",
+        "created_at": "2026-04-08T13:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041863732691656783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1stHIDdCyT",
+              "end": 54,
+              "expanded_url": "https://x.com/sinctyseeds/status/2041863732691656783/photo/1",
+              "media_key": "3_2041863695542939648",
+              "start": 31,
+              "url": "https://t.co/1stHIDdCyT"
+            },
+            {
+              "display_url": "pic.x.com/1stHIDdCyT",
+              "end": 54,
+              "expanded_url": "https://x.com/sinctyseeds/status/2041863732691656783/photo/1",
+              "media_key": "3_2041863695517806595",
+              "start": 31,
+              "url": "https://t.co/1stHIDdCyT"
+            },
+            {
+              "display_url": "pic.x.com/1stHIDdCyT",
+              "end": 54,
+              "expanded_url": "https://x.com/sinctyseeds/status/2041863732691656783/photo/1",
+              "media_key": "3_2041863696637685766",
+              "start": 31,
+              "url": "https://t.co/1stHIDdCyT"
+            },
+            {
+              "display_url": "pic.x.com/1stHIDdCyT",
+              "end": 54,
+              "expanded_url": "https://x.com/sinctyseeds/status/2041863732691656783/photo/1",
+              "media_key": "3_2041863695522025473",
+              "start": 31,
+              "url": "https://t.co/1stHIDdCyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041863732691656783",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Yall comment your favorite 🗣🗣🐐 https://t.co/1stHIDdCyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "",
+        "id": "2041738773114044416",
+        "name": "TaIzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T23:31:44.000Z",
+        "description": "Enjoy our unique findings on our telegram link👇 ....y'all have fun to Express your passion for weed🍀🍃\nfor those who prefer direct contact ..",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aQEEv2Zvsoc1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aQEEv2Zvsoc1NGNk",
+                "start": 0,
+                "url": "https://t.co/6mdvGCSM6R"
+              }
+            ]
+          }
+        },
+        "id": "1915911519012864000",
+        "name": "sincity seeds",
+        "pinned_tweet_id": "2036714526440079797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915917190575927297/JU1oYIH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6759,
+          "following_count": 2072,
+          "like_count": 2519,
+          "listed_count": 4,
+          "media_count": 1130,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/6mdvGCSM6R",
+        "username": "sinctyseeds",
+        "verified": false
+      }
+    ]
+  }
+}

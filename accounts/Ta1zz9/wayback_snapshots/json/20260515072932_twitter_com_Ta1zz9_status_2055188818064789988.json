@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2055058514754826481",
+    "created_at": "2026-05-15T07:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055188818064789988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "SonjaTasha26957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055188818064789988",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055058514754826481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonjaTasha26957 我不行了 红包来啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2055058514754826481",
+        "created_at": "2026-05-15T07:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055188818064789988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055188818064789988",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055058514754826481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 我不行了 红包来啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2055058514754826481",
+        "created_at": "2026-05-14T22:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T23:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055058514754826481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055058514754826481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 586,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "内幻他妈看见一只拖鞋在天上飞然后还有红包来了的音效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "Psychoactive Substances and Plant Cultivation\n钟爱迷幻剂 99.7%dpt 以及99%4ho\n双相\n陷入一种虚无的状态ing……\n匿名箱📮https://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 115,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 92,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, Canada",
+        "name": "太子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 26,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 157
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "前世@xiaoyi080 友跨 顺女 爱我请给我买普瑞巴林… 𖤐HAIL SATAN.666𖤐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2054222035153518899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 566,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 931
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041738773114044416",
+    "conversation_id": "2051927214309159249",
+    "created_at": "2026-05-06T10:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051969582739710263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1455052587145723904",
+          "start": 0,
+          "username": "MizukiWorkshop"
+        },
+        {
+          "end": 30,
+          "id": "1937073350750466048",
+          "start": 16,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051969582739710263",
+    "in_reply_to_user_id": "1455052587145723904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051966521451114711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukiWorkshop @karo269640607 哈哈哈哈哈在我觉得心理成瘾就是他妈的一坨shit 纯扯淡 只是一段时间（几天-几年）能戒断 但凡有突然间窜出的一个念头那么你就可能复吸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041738773114044416",
+        "conversation_id": "2051927214309159249",
+        "created_at": "2026-05-06T10:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051969582739710263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455052587145723904",
+              "start": 0,
+              "username": "MizukiWorkshop"
+            },
+            {
+              "end": 30,
+              "id": "1937073350750466048",
+              "start": 16,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051969582739710263",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051966521451114711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiWorkshop @karo269640607 哈哈哈哈哈在我觉得心理成瘾就是他妈的一坨shit 纯扯淡 只是一段时间（几天-几年）能戒断 但凡有突然间窜出的一个念头那么你就可能复吸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "2051927214309159249",
+        "created_at": "2026-05-06T10:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051966521451114711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            },
+            {
+              "end": 22,
+              "id": "2041738773114044416",
+              "start": 15,
+              "username": "Ta1zz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051966521451114711",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051950969173463309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 @Ta1zz9 心理成瘾性就是个流氓词汇，先射箭再画靶，专门用于服务治理目的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "精神病 失控与绝望\nhttps://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 33,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 10,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, USA",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 21,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 1157,
+          "like_count": 115902,
+          "listed_count": 9,
+          "media_count": 1706,
+          "tweet_count": 23286
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 439,
+          "like_count": 23571,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 4168
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

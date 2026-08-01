@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051863519155335172"
+      ],
+      "media_source_tweet_id": [
+        "2052062584396984495"
+      ]
+    },
+    "author_id": "2041738773114044416",
+    "conversation_id": "2052162631595876659",
+    "created_at": "2026-05-06T23:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T00:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052162631595876659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557420747928256512",
+          "start": 3,
+          "username": "_StonersRUs_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vECv6X4jYP",
+          "end": 80,
+          "expanded_url": "https://x.com/_StonersRUs_/status/2052062584396984495/video/1",
+          "media_key": "13_2051863519155335172",
+          "start": 57,
+          "url": "https://t.co/vECv6X4jYP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052162631595876659",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052062584396984495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_StonersRUs_: Is this the future of smoking weed? 😳🔥 https://t.co/vECv6X4jYP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29141,
+        "height": 1280,
+        "media_key": "13_2051863519155335172",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051863519155335172/img/MZY3MUUpF-qVkdee.jpg",
+        "public_metrics": {
+          "view_count": 30062
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051863519155335172/vid/avc1/320x568/EZSd5VlD8pmqgx9m.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051863519155335172/vid/avc1/480x852/6CUoInanUXtariY9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051863519155335172/vid/avc1/720x1280/aG42DqTEoSo_GuVw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051863519155335172/pl/kobZWaFhDr7yreUN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051863519155335172"
+          ],
+          "media_source_tweet_id": [
+            "2052062584396984495"
+          ]
+        },
+        "author_id": "2041738773114044416",
+        "conversation_id": "2052162631595876659",
+        "created_at": "2026-05-06T23:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T00:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052162631595876659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557420747928256512",
+              "start": 3,
+              "username": "_StonersRUs_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vECv6X4jYP",
+              "end": 80,
+              "expanded_url": "https://x.com/_StonersRUs_/status/2052062584396984495/video/1",
+              "media_key": "13_2051863519155335172",
+              "start": 57,
+              "url": "https://t.co/vECv6X4jYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052162631595876659",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052062584396984495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_StonersRUs_: Is this the future of smoking weed? 😳🔥 https://t.co/vECv6X4jYP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051863519155335172"
+          ]
+        },
+        "author_id": "1557420747928256512",
+        "conversation_id": "2052062584396984495",
+        "created_at": "2026-05-06T16:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052062584396984495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vECv6X4jYP",
+              "end": 62,
+              "expanded_url": "https://x.com/_StonersRUs_/status/2052062584396984495/video/1",
+              "media_key": "13_2051863519155335172",
+              "start": 39,
+              "url": "https://t.co/vECv6X4jYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052062584396984495",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 69545,
+          "like_count": 596,
+          "quote_count": 6,
+          "reply_count": 44,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "Is this the future of smoking weed? 😳🔥 https://t.co/vECv6X4jYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-08T04:45:30.000Z",
+        "description": "精神病 失控与绝望\nhttps://t.co/9gV72cn4oa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ta1z9",
+                "end": 33,
+                "expanded_url": "https://ngl.link/ta1z9",
+                "start": 10,
+                "url": "https://t.co/9gV72cn4oa"
+              }
+            ]
+          }
+        },
+        "id": "2041738773114044416",
+        "location": "Montana, USA",
+        "name": "一坨柔软鲜艳的外星人在拉着我的手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041739537047748608/OyGaDPns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "Ta1zz9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T17:37:06.000Z",
+        "description": "#1 Cannabis Community Bringing Stoners Together! 🍃 | Hosting Monthly Giveaways 🎁 | Dm For Promotions | Turn On Notifications 🔔 | ALL OUR LINKS ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/stonersrus",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/stonersrus",
+                "start": 0,
+                "url": "https://t.co/T7TR8ieMIv"
+              }
+            ]
+          }
+        },
+        "id": "1557420747928256512",
+        "location": "OUR LINKS  ➡️",
+        "name": "STONERS R US 🍃",
+        "pinned_tweet_id": "2051998663187243174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914166839728332800/nOztDpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459749,
+          "following_count": 389,
+          "like_count": 192998,
+          "listed_count": 308,
+          "media_count": 9065,
+          "tweet_count": 50991
+        },
+        "url": "https://t.co/T7TR8ieMIv",
+        "username": "_StonersRUs_",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE",
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}
